@@ -5,3 +5,5 @@ _build
 
 .pixi/*
 !.pixi/config.toml
+
+.specstory/*

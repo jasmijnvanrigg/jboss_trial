@@ -6,7 +6,7 @@ project:
   keywords: [Jupyter Book, Open Science, TU Delft, Starterkit]
 
   github: https://github.com/TUD-JB-OS/starterkit # change this to your own repository
-  date: 2026-01-31
+  date: 2026-09-15
   thumbnail: style/thumbnail.jpg
   numbering: 
     title: true

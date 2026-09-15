@@ -2,8 +2,8 @@ version: 1
 project:
   
   authors:
-    - id: student
-      name: student without a name yet
+    - id: PhD candidate
+      name: Jasmijn van Riggelen
       affiliations:
         - tud
 
